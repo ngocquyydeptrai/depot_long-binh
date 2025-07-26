@@ -42,3 +42,8 @@ This Roblox version faithfully replicates the real-life depot with high detail a
 ---
 
 ## 📦 Project Structure
+![]()
+![]()
+![]()
+![]()
+![]()
