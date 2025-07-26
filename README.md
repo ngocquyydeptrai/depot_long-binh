@@ -46,4 +46,4 @@ This Roblox version faithfully replicates the real-life depot with high detail a
 ![](img/Screenshot%202025-07-27%20001208.png)
 ![](img/Screenshot%202025-07-27%20001239.png)
 ![](img/Screenshot%202025-07-27%20001315.png)
-![]()
+![](img/Screenshot%202025-07-27%20001411.png)
